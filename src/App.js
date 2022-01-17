@@ -1,6 +1,6 @@
 import { useState } from "react";
-import "./App.css";
 import Values from "values.js";
+import "./App.css";
 import { Item } from "./components/Item";
 
 function App() {
